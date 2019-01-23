@@ -1,0 +1,2 @@
+# AppMid
+Mid Revista Digital
